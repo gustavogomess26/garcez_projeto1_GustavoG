@@ -1,0 +1,32 @@
+.p1{color:brown
+}
+.p1{border-color: black;
+    border-width: 6px;
+    border-style:double;}
+.p1{margin-left: 5%;
+    margin-right: 65%;
+    text-align: center;}
+.p2{color:rgb(0, 26, 255)
+    }
+.p2{border-color: rgb(21, 255, 0);
+    border-width: 6px;
+    border-style:dashed;}
+.p2{margin-left: 25%;
+    margin-right: 45%;
+    text-align: center;}
+.p3{color:rgb(0, 255, 242)
+   }
+.p3{border-color: rgb(234, 0, 255);
+    border-width: 6px;
+    border-style:groove;}
+.p3{margin-left: 45%;
+    margin-right: 25%;
+    text-align: center;}
+.p4{color:rgb(255, 0, 149)
+   }
+.p4{border-color: rgb(255, 94, 0);
+    border-width: 6px;
+    border-style:ridge;}
+.p4{margin-left: 65%;
+    margin-right: 5%;
+    text-align: center;}
